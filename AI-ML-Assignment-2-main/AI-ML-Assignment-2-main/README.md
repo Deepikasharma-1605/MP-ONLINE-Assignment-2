@@ -1,6 +1,6 @@
-**Name: Prakhar Bhardwaj**\
-**Reg No: 23MEI10051**\
-**Application no: IN26011412**
+**Name: DEEPIKA**\
+**Reg No: 23BCY10185**\
+**Application no: IN26011679**
 
 # AI-ML-Assignment-2
 # Telco Customer Churn Prediction
